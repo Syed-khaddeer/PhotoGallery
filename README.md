@@ -88,4 +88,4 @@ photo-gallery/
 
 Images are loaded from the Picsum Photos API. The number of likes is kept in React state but is not saved for any more time in any form.
 
-![alt text](./src/assets/image.png)
+![alt text](image.png)
